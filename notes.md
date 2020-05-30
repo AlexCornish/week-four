@@ -24,3 +24,10 @@
 - The other pattern that I think is most worth looking into is the similarities between all the articles that weren't published in Edinburgh vs. the rest of the cities. This would include looking at the 5 London articles in this data set, all of which were from 1817, the majority of the articles from Glasglow which came out in only 5 years of the 53 year period being analysed here, and the singular article from Sydney. 
 
 ![](evidence/NEWPLOT.png)
+
+## Voyant
+- https://voyant-tools.org/?corpus=7b47f468a6a3a303c9fee74a6b21d0d8
+### Technical Failures:
+- Voyant doesn't seem to agree with me, seemingly every other time I try to do something on it, a blank error message appears and I have to refresh the page, I managed to get through all of it, although that was a bit annoying. 
+### Does anything jump out at you? Click on the term. What changes in Voyant?
+- 
