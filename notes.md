@@ -1,6 +1,7 @@
 ##Excel & R:
 ### Do you see any other error(s) in the plot? How would you correct it(them)?
 - Yes, in the country column one of the entries says "Edinburgh" when it should be in the "United Kingdom" section. 
+![](evidence/ErrorINR.png)
 - Also, for the Article.Type set, there are entries that contain "advertise" and "advertisement" as different types. 
 
 ![](evidence/ArticleTypeData.png)
