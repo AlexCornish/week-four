@@ -1,4 +1,4 @@
-##Excel & R:
+## Excel & R:
 ### Do you see any other error(s) in the plot? How would you correct it(them)?
 - Yes, in the country column one of the entries says "Edinburgh" when it should be in the "United Kingdom" section. 
 
