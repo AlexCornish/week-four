@@ -29,5 +29,10 @@
 - https://voyant-tools.org/?corpus=7b47f468a6a3a303c9fee74a6b21d0d8
 ### Technical Failures:
 - Voyant doesn't seem to agree with me, seemingly every other time I try to do something on it, a blank error message appears and I have to refresh the page, I managed to get through all of it, although that was a bit annoying. 
-### Does anything jump out at you? Click on the term. What changes in Voyant?
-- 
+### Does anything jump out at you? 
+- The picture made up of all of the different words, which is presumably their prominence in the data set.
+### What changes in Voyant?
+- A list of the most commonly occuring terms in the data appear. 
+
+<iframe style='width: 637px; height: 481px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=7b47f468a6a3a303c9fee74a6b21d0d8'></iframe>
+
