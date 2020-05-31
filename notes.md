@@ -49,3 +49,17 @@
 
 <iframe style='width: 637px; height: 481px;' src='https://voyant-tools.org/?corpus=37408bf301c0ded81219f721c9abe941'></iframe>
 
+## AntConc
+- Nothing to report here, got through the tutorial rather easily. 
+
+## Topic Modelling
+
+![](evidence/malletoutput.png)
+
+- Above is the output from mallet and the index.html. It seems to work as described despite some of the words being bunches of random letters, numbers, and other symbols. 
+
+- Tried making a pivot table, it didn't seem to do anything aside from repeatedly crash excel. 
+
+![](evidence/chart.png)
+
+
