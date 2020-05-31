@@ -47,6 +47,5 @@
 
 - The resulting corpus seemingly worked, although there are some problems with it, such as the presence of partial elements of words and some other elements that aren't related to the subject directly.
 
-
-<iframe style='width: 637px; height: 481px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=7b47f468a6a3a303c9fee74a6b21d0d8'></iframe>
+<iframe style='width: 637px; height: 481px;' src='https://voyant-tools.org/?corpus=37408bf301c0ded81219f721c9abe941'></iframe>
 
